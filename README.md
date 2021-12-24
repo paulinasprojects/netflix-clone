@@ -8,7 +8,7 @@ Live on: https://clonenetflixui.netlify.app/
 How to install:
 - Clone this repo.
 - `npm install` to install all req'd dependencies.
-- npm install` material-icons.
+- `npm install` material-icons.
 -  `npm start` to start the local server (this project uses create-react-app).
 
 # Thanks for checking out.
